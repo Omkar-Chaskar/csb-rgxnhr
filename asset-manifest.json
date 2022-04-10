@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://omkar-chaskar.github.io/csb-rgxnhr/static/css/main.0ea40166.chunk.css",
+    "main.js": "https://omkar-chaskar.github.io/csb-rgxnhr/static/js/main.adfb1825.chunk.js",
+    "main.js.map": "https://omkar-chaskar.github.io/csb-rgxnhr/static/js/main.adfb1825.chunk.js.map",
+    "runtime-main.js": "https://omkar-chaskar.github.io/csb-rgxnhr/static/js/runtime-main.85078281.js",
+    "runtime-main.js.map": "https://omkar-chaskar.github.io/csb-rgxnhr/static/js/runtime-main.85078281.js.map",
+    "static/js/2.e47fbf09.chunk.js": "https://omkar-chaskar.github.io/csb-rgxnhr/static/js/2.e47fbf09.chunk.js",
+    "static/js/2.e47fbf09.chunk.js.map": "https://omkar-chaskar.github.io/csb-rgxnhr/static/js/2.e47fbf09.chunk.js.map",
+    "index.html": "https://omkar-chaskar.github.io/csb-rgxnhr/index.html",
+    "static/css/main.0ea40166.chunk.css.map": "https://omkar-chaskar.github.io/csb-rgxnhr/static/css/main.0ea40166.chunk.css.map",
+    "static/js/2.e47fbf09.chunk.js.LICENSE.txt": "https://omkar-chaskar.github.io/csb-rgxnhr/static/js/2.e47fbf09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85078281.js",
+    "static/js/2.e47fbf09.chunk.js",
+    "static/css/main.0ea40166.chunk.css",
+    "static/js/main.adfb1825.chunk.js"
+  ]
+}
